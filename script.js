@@ -11,3 +11,5 @@ function update(element){
 
     localStorage.setItem('nome', value)
 }
+
+// TODO: Utilizar json stringfy e parse
